@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nandhini 👋
 
-<!--
-**NANDHINIV30/NANDHINIV30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | Angular & TypeScript Specialist
+I am a passionate Frontend Developer with **3 years of experience** building responsive, user-friendly web applications. Currently focusing on freelance projects and exploring modern web architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolbox
+* **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS
+* **Frameworks:** Angular (RxJS, NgRx), Bootstrap, Tailwind CSS
+* **Tools:** Git, GitHub, VS Code, NPM
+
+---
+
+### 📈 What I'm working on
+- 🛠️ Building a **Professional Admin Dashboard** in Angular.
+- 👨‍💻 Contributing to Open Source.
+- 📚 Staying up to date with the latest Angular signals and features.
+
+---
+
+📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/nandhini-v-a5949a193) | [nandhinivedanaygam@gmail.com]
