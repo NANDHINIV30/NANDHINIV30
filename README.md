@@ -19,4 +19,4 @@ I am a passionate Frontend Developer with **3 years of experience** building res
 
 ---
 
-📫 **Connect with me:** [LinkedIn]((https://www.linkedin.com/in/nandhini-v-a5949a193)) | [nandhinivedanaygam@gmail.com]
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nandhini-v-a5949a193) | [nandhinivedanaygam@gmail.com]
